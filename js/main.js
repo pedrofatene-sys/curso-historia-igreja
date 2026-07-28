@@ -1,8 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'OyymFeNPHyE', name: 'Introdução' },
-    { id: 'PGkEwzmtOkA', name: 'O Crescimento da Igreja' },
-    { id: 'bJV-gm_fr8Y', name: 'As Perseguições' },
+    { id: 'RpRrqX5Y69M', name: 'Introdução à História da Igreja Antiga' },
+    { id: '84EugA567qo', name: 'O Nascimento da Igreja' },
+    { id: '3Hz007z7ggs', name: 'A Origem das Sagradas Escrituras' },
 ];
 
 // Estado atual
